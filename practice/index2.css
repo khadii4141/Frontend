@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 15px;
+}
+
+.logoWrapper{
+    display: flex;
+}
+.order{
+    display: flex;
+    justify-content: center;
+    
+}
+.heading{
+    font-size: 15px;
+    font-family: 'poppins',sans-serif;
+}
+.container{
+    display: flex;
+    height: 500px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+p {
+    width: 100px;
+}
+.p_1{
+    background-color: blue;
+
+}
+.p_2{
+    background-color: red;
+}
+.p_3{
+    background-color: blueviolet;
+}
+.wrapper{
+    background-color: gold;
+    top: 0;
+    right: 0;
+}

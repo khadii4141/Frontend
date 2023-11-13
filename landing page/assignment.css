@@ -1,0 +1,46 @@
+.myGog{
+    display: block;
+     width:487px;
+    height: 244px;
+} 
+.container{
+display:flex;
+justify-content: space-between;
+background-color: whitesmoke;    
+}
+.paragraghOne{
+    /* color: black;
+    font-size: 16px;
+    font-family: inter;
+    font-weight: 400;
+    line-height: 26px;
+    word-wrap: break-word; */
+    max-width: 270px;
+}
+.cat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.firstSet{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.secondSet{
+    display: flex;
+    justify-content: space-around;
+}
+.thirdSet{
+    display: flex;
+    justify-content: space-around;
+}
+.cardOne{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.cardOne{
+    padding-top: 20px;
+    margin-top: 20px;
+}
